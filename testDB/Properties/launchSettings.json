@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "testDB": {
+      "commandName": "Project",
+      "commandLineArgs": "1",
+      "sqlDebugging": true
+    }
+  }
+}
